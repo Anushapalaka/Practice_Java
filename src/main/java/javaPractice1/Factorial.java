@@ -7,7 +7,7 @@ public class Factorial {
         //giving all values
         for (int i = num; i >= 1; i--) {
             fact = fact * i;
-            System.out.println(fact);
+            System.out.println( "This is the factorial :"+ fact);
         }
     }
 }
